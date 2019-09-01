@@ -1,4 +1,4 @@
-# c_linked_list
+# Linked List in C
 Example of linked list in C with the following methods: 
 
   * Add: Add to the end;
