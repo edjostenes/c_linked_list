@@ -157,7 +157,7 @@ void printList(List* list)
 }
 
 /*
-	Releasing from the memory.
+	Releasing memory.
 	READ ABOUT MEMORY LEAK
 */
 void dispose(List* list)
